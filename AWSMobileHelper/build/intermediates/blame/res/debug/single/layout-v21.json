@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/george.kortsaridis/Downloads/AWSSNSPushNotifications/AWSMobileHelper/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/george.kortsaridis/.android/build-cache/6760d505b8a00b8a498735d55dbe28d4abf8c9ff/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/george.kortsaridis/Downloads/AWSSNSPushNotifications/AWSMobileHelper/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/george.kortsaridis/.android/build-cache/6760d505b8a00b8a498735d55dbe28d4abf8c9ff/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/george.kortsaridis/Downloads/AWSSNSPushNotifications/AWSMobileHelper/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/george.kortsaridis/.android/build-cache/6760d505b8a00b8a498735d55dbe28d4abf8c9ff/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/george.kortsaridis/Downloads/AWSSNSPushNotifications/AWSMobileHelper/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/george.kortsaridis/.android/build-cache/6760d505b8a00b8a498735d55dbe28d4abf8c9ff/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
